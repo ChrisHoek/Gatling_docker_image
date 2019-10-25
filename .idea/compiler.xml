@@ -9,5 +9,8 @@
         <module name="Gatling_Docker_Image" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Gatling_Docker_Image" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
