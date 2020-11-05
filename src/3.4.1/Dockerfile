@@ -1,7 +1,4 @@
 # Gatling is a highly capable load testing tool.
-#
-# Documentation: https://gatling.io/docs/current/
-# Cheat sheet: https://gatling.io/docs/current/cheat-sheet
 
 FROM openjdk:8-jdk-alpine
 
