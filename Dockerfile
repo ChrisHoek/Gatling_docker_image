@@ -11,7 +11,7 @@ LABEL maintainer="christiaan@detesters.nl"
 WORKDIR /opt
 
 # gating version
-ENV GATLING_VERSION 3.5.1
+ENV GATLING_VERSION 3.6.1
 
 # create directory for gatling install
 RUN mkdir -p gatling
